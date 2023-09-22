@@ -1,7 +1,7 @@
 # ACWA-Data
 Virginia Tech's A3 lab ACWA datasets (AI &amp; Cyber for Water &amp; Agriculture)
 
-The ACWA lab is a cyber-physical testbed comprising a cluster of computational resources, CPUs, GPUs, sensors, water tanks, pumps, valves, pipes, and soil beds. The main goal of the ACWA lab is to address pressing challenges in the water and agricultural domain by utilizing cutting-edge AI and cyber technologies.
+The ACWA lab is a cyber-physical testbed comprising a cluster of computational resources, CPUs, GPUs, sensors, water tanks, pumps, valves, pipes, and soil beds. The main goal of the ACWA lab is to address pressing challenges in the water and agricultural domains by utilizing cutting-edge AI and cyber technologies.
 <br />
 <br />
 To use this data, you implicitly agree, understand, and pledge to the following 5 aspects: <br />
@@ -17,3 +17,4 @@ https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00445-7 <b
 <br />
 Thanks and regards,<br />
 The ACWA Team.<br />
+For more on the ACWA lab, please refer to: https://ai.bse.vt.edu/ACWA_Lab.html
