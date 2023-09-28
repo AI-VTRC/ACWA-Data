@@ -23,17 +23,26 @@ For more on the ACWA lab, please refer to: https://ai.bse.vt.edu/ACWA_Lab.html
 ### APA
 
 ```
-(a) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA: an AI-driven cyber-physical testbed for intelligent water systems", 	arXiv: ###.<br />
-(b) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA-Data", available via GitHub at: https://github.com/AI-VTRC/ACWA-Data.<br />
+(a) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA: an AI-driven cyber-physical testbed for intelligent water systems", 	arXiv: ###.
+(b) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA-Data", available via GitHub at: https://github.com/AI-VTRC/ACWA-Data.
 ```
 
 ### BibTex
 ```
-@misc{ACWA_2023,
+@article{ACWA_paper,
 author = {Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S.},
-title = {{ACWA: an AI-driven cyber-physical testbed for intelligent water systems}},
+title = {ACWA: an AI-driven cyber-physical testbed for intelligent water systems},
 year = {2023},
 publisher = {arXiv: ###}
+}
+```
+```
+@misc{ACWA_data,
+author = {Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S.},
+title = {ACWA Data},
+year = {2023},
+publisher = {A3 Lab},
+url = {https://github.com/AI-VTRC/ACWA-Data/}
 }
 ```
 
