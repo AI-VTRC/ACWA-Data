@@ -43,7 +43,7 @@ author = {Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S.},
 title = {ACWA Data},
 year = {2023},
 publisher = {A3 Lab},
-url = {https://github.com/AI-VTRC/ACWA-Data/}
+url = {https://github.com/AI-VTRC/ACWA-Data}
 }
 ```
 
