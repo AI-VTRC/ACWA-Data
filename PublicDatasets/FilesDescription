@@ -1,1 +1,8 @@
+Data files descriptors.
 
+(1) The main file "ACWA Data - A3 Lab" has the data sample from the lab.
+(2) Cyber attack scenarios (such as data poisoning) are included in the "ACWA Cyberattacks Data - A3 Lab".
+(3.) The Simulator's data sample is under "ACWA Simulation Data - A3 Lab"
+(4) The input file containing all the parameters set for that specific output is in JSON format: "ACWA_Simulator_Input_Data".
+
+For more details, please refer to the paper.
