@@ -22,7 +22,7 @@ For more on the ACWA lab, please refer to: https://ai.bse.vt.edu/ACWA_Lab.html
 
 ### APA Paper and Data
 ```
-(a) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA: an AI-driven cyber-physical testbed for intelligent water systems", 	arXiv: ###.
+(a) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA: an AI-driven cyber-physical testbed for intelligent water systems", arXiv: 2310.17654.
 (b) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA Data", available via GitHub at: https://github.com/AI-VTRC/ACWA-Data.
 ```
 
@@ -32,7 +32,8 @@ For more on the ACWA lab, please refer to: https://ai.bse.vt.edu/ACWA_Lab.html
 author = {Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S.},
 title = {ACWA: an AI-driven cyber-physical testbed for intelligent water systems},
 year = {2023},
-publisher = {arXiv: ###}
+url = {https://arxiv.org/abs/2310.17654}
+publisher = {arXiv: 2310.17654}
 }
 ```
 
