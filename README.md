@@ -26,10 +26,22 @@ For more on the ACWA lab, please refer to: https://ai.bse.vt.edu/ACWA_Lab.html
 (b) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA Data", available via GitHub at: https://github.com/AI-VTRC/ACWA-Data.
 ```
 
-### BibTex Paper
+### BibTex Paper IWA version
+```
+@article{IWA_ACWA_paper,
+  title={ACWA: an AI-driven cyber-physical testbed for intelligent water systems},
+  author={Batarseh, Feras and Kulkarni, Ajay and Sreng, Chhayly and Lin, Justice and Maksud, Siam},
+  journal={Water Practice \& Technology},
+  doi={10.2166/wpt.2023.197},
+  year={2023},
+  publisher={IWA Publishing}
+}
+```
+
+### BibTex Paper arXiv version
 ```
 @article{ACWA_paper,
-author = {Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S.},
+author = {Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., Maksud, S.},
 title = {ACWA: an AI-driven cyber-physical testbed for intelligent water systems},
 year = {2023},
 url = {https://arxiv.org/abs/2310.17654}
@@ -40,7 +52,7 @@ publisher = {arXiv: 2310.17654}
 ### BibTex Data
 ```
 @misc{ACWA_data,
-author = {Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S.},
+author = {Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., Maksud, S.},
 title = {ACWA Data},
 year = {2023},
 publisher = {A3 Lab},
