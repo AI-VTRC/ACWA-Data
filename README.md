@@ -20,21 +20,22 @@ For more on the ACWA lab, please refer to: https://ai.bse.vt.edu/ACWA_Lab.html
 
 ## Citation
 
-### APA Paper and Data
+### APA Paper(s) and Data
 ```
-(a) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA: an AI-driven cyber-physical testbed for intelligent water systems", arXiv: 2310.17654.
+(a1) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA: an AI-driven cyber-physical testbed for intelligent water systems", 2023, arXiv: 2310.17654.
+(a2) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "acwa: an ai-driven cyber-physical testbed for intelligent water systems", 2023, IWA Water Practice & Technology, doi: 10.2166/wpt.2023.197
 (b) Batarseh, F., Kulkarni, A., Sreng, C., Lin. J., and Maksud, S., "ACWA Data", available via GitHub at: https://github.com/AI-VTRC/ACWA-Data.
 ```
 
 ### BibTex Paper IWA version
 ```
 @article{IWA_ACWA_paper,
-  title={ACWA: an AI-driven cyber-physical testbed for intelligent water systems},
-  author={Batarseh, Feras and Kulkarni, Ajay and Sreng, Chhayly and Lin, Justice and Maksud, Siam},
-  journal={Water Practice \& Technology},
-  doi={10.2166/wpt.2023.197},
-  year={2023},
-  publisher={IWA Publishing}
+title={ACWA: an AI-driven cyber-physical testbed for intelligent water systems},
+author={Batarseh, Feras and Kulkarni, Ajay and Sreng, Chhayly and Lin, Justice and Maksud, Siam},
+journal={Water Practice \& Technology},
+doi={10.2166/wpt.2023.197},
+year={2023},
+publisher={IWA Publishing}
 }
 ```
 
